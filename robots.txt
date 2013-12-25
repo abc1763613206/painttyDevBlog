@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://liuyanghejerry.github.io/painttyDevBlog/sitemap.xml 
