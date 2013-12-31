@@ -1,5 +1,5 @@
 /*
-Syntax error: Invalid CSS after "	:": expected identifier, was ":-webkit-input-..."
+Syntax error: Invalid CSS after "...ut-placeholder:": expected pseudoclass or pseudoelement, was " hsla(35, 49%, ..."
         on line 17 of /Users/admin/octopress/sass/custom/_styles.scss
         from line 10 of /Users/admin/octopress/sass/screen.scss
 
@@ -9,8 +9,13 @@ Backtrace:
 /Users/admin/.rvm/gems/ruby-2.0.0-p353/gems/sass-3.2.9/lib/sass/scss/parser.rb:1146:in `expected'
 /Users/admin/.rvm/gems/ruby-2.0.0-p353/gems/sass-3.2.9/lib/sass/scss/parser.rb:1084:in `expected'
 /Users/admin/.rvm/gems/ruby-2.0.0-p353/gems/sass-3.2.9/lib/sass/scss/parser.rb:1066:in `expr!'
-/Users/admin/.rvm/gems/ruby-2.0.0-p353/gems/sass-3.2.9/lib/sass/scss/parser.rb:848:in `declaration'
-/Users/admin/.rvm/gems/ruby-2.0.0-p353/gems/sass-3.2.9/lib/sass/scss/parser.rb:582:in `block in declaration_or_ruleset'
+/Users/admin/.rvm/gems/ruby-2.0.0-p353/gems/sass-3.2.9/lib/sass/scss/parser.rb:794:in `pseudo'
+/Users/admin/.rvm/gems/ruby-2.0.0-p353/gems/sass-3.2.9/lib/sass/scss/parser.rb:678:in `simple_selector_sequence'
+/Users/admin/.rvm/gems/ruby-2.0.0-p353/gems/sass-3.2.9/lib/sass/scss/parser.rb:640:in `_selector'
+/Users/admin/.rvm/gems/ruby-2.0.0-p353/gems/sass-3.2.9/lib/sass/scss/parser.rb:619:in `selector'
+/Users/admin/.rvm/gems/ruby-2.0.0-p353/gems/sass-3.2.9/lib/sass/scss/parser.rb:603:in `selector_sequence'
+/Users/admin/.rvm/gems/ruby-2.0.0-p353/gems/sass-3.2.9/lib/sass/scss/parser.rb:528:in `ruleset'
+/Users/admin/.rvm/gems/ruby-2.0.0-p353/gems/sass-3.2.9/lib/sass/scss/parser.rb:591:in `block in declaration_or_ruleset'
 /Users/admin/.rvm/gems/ruby-2.0.0-p353/gems/sass-3.2.9/lib/sass/scss/parser.rb:1122:in `call'
 /Users/admin/.rvm/gems/ruby-2.0.0-p353/gems/sass-3.2.9/lib/sass/scss/parser.rb:1122:in `rethrow'
 /Users/admin/.rvm/gems/ruby-2.0.0-p353/gems/sass-3.2.9/lib/sass/scss/parser.rb:592:in `declaration_or_ruleset'
@@ -68,4 +73,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Syntax error: Invalid CSS after \"	:\": expected identifier, was \":-webkit-input-...\"\A         on line 17 of /Users/admin/octopress/sass/custom/_styles.scss\A         from line 10 of /Users/admin/octopress/sass/screen.scss"; }
+  content: "Syntax error: Invalid CSS after \"...ut-placeholder:\": expected pseudoclass or pseudoelement, was \" hsla(35, 49%, ...\"\A         on line 17 of /Users/admin/octopress/sass/custom/_styles.scss\A         from line 10 of /Users/admin/octopress/sass/screen.scss"; }
