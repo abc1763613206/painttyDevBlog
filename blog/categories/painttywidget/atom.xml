@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[茶绘君开发博客]]></title>
-  <link href="http://blog.mrspaint.com/painttyDevBlog/atom.xml" rel="self"/>
+  <title><![CDATA[Category: painttyWidget | 茶绘君开发博客]]></title>
+  <link href="http://blog.mrspaint.com/painttyDevBlog/blog/categories/painttywidget/atom.xml" rel="self"/>
   <link href="http://blog.mrspaint.com/painttyDevBlog/"/>
   <updated>2014-01-24T19:58:26+08:00</updated>
   <id>http://blog.mrspaint.com/painttyDevBlog/</id>
@@ -42,19 +42,6 @@
 <p>但是目前比较囧的问题就是更新器在Mac OSX上的实现还不正确，使用Mac的小伙伴仍将需要手动更新。在茶绘君0.5整个周期中，更新器还会有一些变化，其中最重要的就是增加完整的Mac OSX支持。为了不影响茶绘君的发布，更新器只能降一下优先级了。</p>
 
 <p>不管怎么说，还是希望茶绘君0.5的开发工作能够在春节前结束，大家期待吧。</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[茶绘君开发博客建立]]></title>
-    <link href="http://blog.mrspaint.com/painttyDevBlog/blog/2013/12/25/cha-hui-jun-kai-fa-bo-ke-jian-li/"/>
-    <updated>2013-12-25T17:18:46+08:00</updated>
-    <id>http://blog.mrspaint.com/painttyDevBlog/blog/2013/12/25/cha-hui-jun-kai-fa-bo-ke-jian-li</id>
-    <content type="html"><![CDATA[<p>茶绘君已经运行了快一年了，但它真正开始编写已经一年多了。我自己不是一个爱写博客的人，但是既然打算将茶绘君长期做下去，写个开发博客也是个不错的选择。</p>
-
-<p>其实IT人员开个博客是一个很纠结是事情，总会在各种博客方案当中纠结。比如自己建立个wordpress博客，或者弄个tumblr托管之类的。目前我的想法是尽可能简单，不要在写开发博客上存在负担，比如过两天发现PHP更新了，然后手贱更新导致wp博客运行不能，或者又想进行性能调优，然后各种折腾。。。</p>
-
-<p>总之现在先用github的pages服务吧，看看好用不好用，嘿嘿。刚才还折腾了一下octopress，下一步准备改改风格来着。</p>
 ]]></content>
   </entry>
   
