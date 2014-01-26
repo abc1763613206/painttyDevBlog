@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: 茶绘君更新器 | 茶绘君开发博客]]></title>
-  <link href="http://blog.mrspaint.com/painttyDevBlog/blog/categories/%E8%8C%B6%E7%BB%98%E5%90%9B%E6%9B%B4%E6%96%B0%E5%99%A8/atom.xml" rel="self"/>
+  <title><![CDATA[Category: 茶绘君 | 茶绘君开发博客]]></title>
+  <link href="http://blog.mrspaint.com/painttyDevBlog/blog/categories/茶绘君/atom.xml" rel="self"/>
   <link href="http://blog.mrspaint.com/painttyDevBlog/"/>
-  <updated>2014-01-26T16:40:17+08:00</updated>
+  <updated>2014-01-26T16:42:37+08:00</updated>
   <id>http://blog.mrspaint.com/painttyDevBlog/</id>
   <author>
     <name><![CDATA[liuyanghejerry]]></name>
