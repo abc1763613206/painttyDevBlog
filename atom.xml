@@ -4,7 +4,7 @@
   <title><![CDATA[茶绘君开发博客]]></title>
   <link href="http://blog.mrspaint.com/painttyDevBlog/atom.xml" rel="self"/>
   <link href="http://blog.mrspaint.com/painttyDevBlog/"/>
-  <updated>2014-01-29T23:07:22+08:00</updated>
+  <updated>2014-01-29T23:32:32+08:00</updated>
   <id>http://blog.mrspaint.com/painttyDevBlog/</id>
   <author>
     <name><![CDATA[liuyanghejerry]]></name>
@@ -19,6 +19,9 @@
     <updated>2014-01-29T22:53:54+08:00</updated>
     <id>http://blog.mrspaint.com/painttyDevBlog/blog/2014/01/29/茶绘君0.5发布延迟</id>
     <content type="html"><![CDATA[<p>非常抱歉，茶绘君0.5无法在年前发布了。</p>
+
+<!--more-->
+
 
 <p>目前茶绘君0.5的大部分功能都已如约实现，但有几个很重要的问题致使0.5无法发布：</p>
 
