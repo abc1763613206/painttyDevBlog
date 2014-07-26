@@ -4,7 +4,7 @@
   <title><![CDATA[Category: 茶绘君0.5 | 茶绘君开发博客]]></title>
   <link href="http://blog.mrspaint.com/painttyDevBlog/blog/categories/茶绘君0.5/atom.xml" rel="self"/>
   <link href="http://blog.mrspaint.com/painttyDevBlog/"/>
-  <updated>2014-02-28T15:59:17+08:00</updated>
+  <updated>2014-07-26T14:20:01+08:00</updated>
   <id>http://blog.mrspaint.com/painttyDevBlog/</id>
   <author>
     <name><![CDATA[liuyanghejerry]]></name>
@@ -12,6 +12,38 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[茶绘君0.52发布]]></title>
+    <link href="http://blog.mrspaint.com/painttyDevBlog/blog/2014/07/26/%E8%8C%B6%E7%BB%98%E5%90%9B0.52%E5%8F%91%E5%B8%83/"/>
+    <updated>2014-07-26T13:47:09+08:00</updated>
+    <id>http://blog.mrspaint.com/painttyDevBlog/blog/2014/07/26/茶绘君0.52发布</id>
+    <content type="html"><![CDATA[<p>大家好～距离茶绘君上次发布已经有半年了，这半年当中我一直很忙，在茶绘君的开发进度上非常缓慢，这里先跟大家说声抱歉啦。</p>
+
+<p>不过好消息是，这次我还是为大家带来了茶绘君的新版本：0.52～</p>
+
+<p>0.52是茶绘君0.5之后的一个小版本发布，小版本发布通常只修正原先的BUG，不过也会附带一些小的新功能，希望大家喜欢～</p>
+
+<p>这次的更新内容主要有：</p>
+
+<ol>
+<li>增加了移动画布工具</li>
+<li>修正了昵称铭牌的消失</li>
+<li>增加了PSD导出功能（感谢Roywillow的贡献）</li>
+<li>修改文件另存为的默认地址为系统记忆的地址，而不是茶绘君的路径</li>
+<li>修正了宽度为4以下时，画笔无法绘制出内容的问题</li>
+<li>增加了房主踢人的功能</li>
+<li>为Mac OSX系统增加了更新器</li>
+</ol>
+
+
+<p>虽然这次更新的内容不多，但我还是努力了好一阵子，不管怎么说，算是给大家暑假的一点小礼物吧=v=</p>
+
+<p>同时，茶绘君也非常需要同学能够进行日语、韩语、法语、德语等其它语言的界面翻译，有意的同学可以<a href="mailto:liuyanghejerry@126.com">联系我</a>啦。</p>
+
+<p>更新的下载地址<a href="http://mrspaint.com" title="其实就是主站（（">戳这里</a>。</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[茶绘君0.5发布]]></title>
