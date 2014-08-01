@@ -4,7 +4,7 @@
   <title><![CDATA[Category: release | 茶绘君开发博客]]></title>
   <link href="http://blog.mrspaint.com/painttyDevBlog/blog/categories/release/atom.xml" rel="self"/>
   <link href="http://blog.mrspaint.com/painttyDevBlog/"/>
-  <updated>2014-07-26T14:20:01+08:00</updated>
+  <updated>2014-08-02T00:45:50+08:00</updated>
   <id>http://blog.mrspaint.com/painttyDevBlog/</id>
   <author>
     <name><![CDATA[liuyanghejerry]]></name>
@@ -29,7 +29,7 @@
 <ol>
 <li>增加了移动画布工具</li>
 <li>修正了昵称铭牌的消失</li>
-<li>增加了PSD导出功能（感谢Roywillow的贡献）</li>
+<li>增加了PSD导出功能（感谢roywillow的贡献）</li>
 <li>修改文件另存为的默认地址为系统记忆的地址，而不是茶绘君的路径</li>
 <li>修正了宽度为4以下时，画笔无法绘制出内容的问题</li>
 <li>增加了房主踢人的功能</li>
