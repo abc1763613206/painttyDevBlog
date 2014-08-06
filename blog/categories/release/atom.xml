@@ -4,7 +4,7 @@
   <title><![CDATA[Category: release | 茶绘君开发博客]]></title>
   <link href="http://blog.mrspaint.com/painttyDevBlog/blog/categories/release/atom.xml" rel="self"/>
   <link href="http://blog.mrspaint.com/painttyDevBlog/"/>
-  <updated>2014-08-02T00:45:50+08:00</updated>
+  <updated>2014-08-07T01:32:49+08:00</updated>
   <id>http://blog.mrspaint.com/painttyDevBlog/</id>
   <author>
     <name><![CDATA[liuyanghejerry]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[茶绘君0.52发布]]></title>
-    <link href="http://blog.mrspaint.com/painttyDevBlog/blog/2014/07/26/%E8%8C%B6%E7%BB%98%E5%90%9B0.52%E5%8F%91%E5%B8%83/"/>
+    <link href="http://blog.mrspaint.com/painttyDevBlog/blog/2014/07/26/%E8%8C%B6%E7%BB%98%E5%90%9B0.52%E5%8F%91%E5%B8%83/index.html"/>
     <updated>2014-07-26T13:47:09+08:00</updated>
-    <id>http://blog.mrspaint.com/painttyDevBlog/blog/2014/07/26/茶绘君0.52发布</id>
+    <id>http://blog.mrspaint.com/painttyDevBlog/blog/2014/07/26/%E8%8C%B6%E7%BB%98%E5%90%9B0.52%E5%8F%91%E5%B8%83/茶绘君0.52发布</id>
     <content type="html"><![CDATA[<p>大家好～距离茶绘君上次发布已经有半年了，这半年当中我一直很忙，在茶绘君的开发进度上非常缓慢，这里先跟大家说声抱歉啦。</p>
 
 <p>不过好消息是，这次我还是为大家带来了茶绘君的新版本：0.52～</p>
@@ -47,9 +47,9 @@
   
   <entry>
     <title type="html"><![CDATA[茶绘君0.5发布]]></title>
-    <link href="http://blog.mrspaint.com/painttyDevBlog/blog/2014/02/28/%E8%8C%B6%E7%BB%98%E5%90%9B0.5%E5%8F%91%E5%B8%83/"/>
+    <link href="http://blog.mrspaint.com/painttyDevBlog/blog/2014/02/28/%E8%8C%B6%E7%BB%98%E5%90%9B0.5%E5%8F%91%E5%B8%83/index.html"/>
     <updated>2014-02-28T15:27:53+08:00</updated>
-    <id>http://blog.mrspaint.com/painttyDevBlog/blog/2014/02/28/茶绘君0.5发布</id>
+    <id>http://blog.mrspaint.com/painttyDevBlog/blog/2014/02/28/%E8%8C%B6%E7%BB%98%E5%90%9B0.5%E5%8F%91%E5%B8%83/茶绘君0.5发布</id>
     <content type="html"><![CDATA[<p>经过数个月的开发，我觉得差不多该发布一下0.5了。</p>
 
 <p>总的来说，茶绘君0.5未能达到我预期的一些想法，但还是相对于0.4增加了许多内容，值得与大家分享。</p>

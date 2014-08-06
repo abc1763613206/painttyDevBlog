@@ -4,7 +4,7 @@
   <title><![CDATA[Category: painttyWidget | 茶绘君开发博客]]></title>
   <link href="http://blog.mrspaint.com/painttyDevBlog/blog/categories/painttyWidget/atom.xml" rel="self"/>
   <link href="http://blog.mrspaint.com/painttyDevBlog/"/>
-  <updated>2014-08-02T00:45:50+08:00</updated>
+  <updated>2014-08-07T01:32:49+08:00</updated>
   <id>http://blog.mrspaint.com/painttyDevBlog/</id>
   <author>
     <name><![CDATA[liuyanghejerry]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[茶绘君0.5发布延迟]]></title>
-    <link href="http://blog.mrspaint.com/painttyDevBlog/blog/2014/01/29/%E8%8C%B6%E7%BB%98%E5%90%9B0.5%E5%8F%91%E5%B8%83%E5%BB%B6%E8%BF%9F/"/>
+    <link href="http://blog.mrspaint.com/painttyDevBlog/blog/2014/01/29/%E8%8C%B6%E7%BB%98%E5%90%9B0.5%E5%8F%91%E5%B8%83%E5%BB%B6%E8%BF%9F/index.html"/>
     <updated>2014-01-29T22:53:54+08:00</updated>
-    <id>http://blog.mrspaint.com/painttyDevBlog/blog/2014/01/29/茶绘君0.5发布延迟</id>
+    <id>http://blog.mrspaint.com/painttyDevBlog/blog/2014/01/29/%E8%8C%B6%E7%BB%98%E5%90%9B0.5%E5%8F%91%E5%B8%83%E5%BB%B6%E8%BF%9F/茶绘君0.5发布延迟</id>
     <content type="html"><![CDATA[<p>非常抱歉，茶绘君0.5无法在年前发布了。</p>
 
 <!--more-->
@@ -40,9 +40,9 @@
   
   <entry>
     <title type="html"><![CDATA[茶绘君0.5临近]]></title>
-    <link href="http://blog.mrspaint.com/painttyDevBlog/blog/2014/01/24/%25E8%258C%25B6%25E7%25BB%2598%25E5%2590%259B0.5%25E4%25B8%25B4%25E8%25BF%2591/"/>
+    <link href="http://blog.mrspaint.com/painttyDevBlog/blog/2014/01/24/%25E8%258C%25B6%25E7%25BB%2598%25E5%2590%259B0.5%25E4%25B8%25B4%25E8%25BF%2591/index.html"/>
     <updated>2014-01-24T19:09:22+08:00</updated>
-    <id>http://blog.mrspaint.com/painttyDevBlog/blog/2014/01/24/%E8%8C%B6%E7%BB%98%E5%90%9B0.5%E4%B8%B4%E8%BF%91</id>
+    <id>http://blog.mrspaint.com/painttyDevBlog/blog/2014/01/24/%25E8%258C%25B6%25E7%25BB%2598%25E5%2590%259B0.5%25E4%25B8%25B4%25E8%25BF%2591/%E8%8C%B6%E7%BB%98%E5%90%9B0.5%E4%B8%B4%E8%BF%91</id>
     <content type="html"><![CDATA[<p>随着2014春节的临近，茶绘君0.5版本也准备的差不多了，只剩下一些微调。Github上目前还有一些issue因为代码没有合并到主分支，所以还没有关闭。但我相信关闭它们也只是几天之内的事情。</p>
 
 <p>茶绘君0.5最主要的变化体现在两方面。</p>
